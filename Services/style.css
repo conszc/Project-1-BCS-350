@@ -1,0 +1,85 @@
+.page-header{
+text-align:center;
+padding:80px 20px;
+background:#222;
+}
+
+.page-header h2{
+font-size:36px;
+margin-bottom:10px;
+}
+
+
+
+/* SERVICES PAGE */
+
+.services-page{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+padding:60px;
+gap:30px;
+}
+
+.service-card{
+background:#1b1b1b;
+padding:25px;
+width:280px;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.4);
+}
+
+.service-card h3{
+color:gold;
+margin-bottom:10px;
+}
+
+.service-card ul{
+margin-top:10px;
+padding-left:20px;
+}
+
+
+
+/* PRICING */
+
+.pricing{
+text-align:center;
+padding:80px 20px;
+background:#111;
+}
+
+.pricing-container{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:30px;
+margin-top:40px;
+}
+
+.price-card{
+background:#1b1b1b;
+padding:30px;
+width:250px;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.5);
+}
+
+.price-card h3{
+color:gold;
+}
+
+.price-card h4{
+font-size:32px;
+margin:15px 0;
+}
+
+.price-card ul{
+list-style:none;
+padding:0;
+margin-bottom:20px;
+}
+
+.price-card li{
+margin:8px 0;
+}
