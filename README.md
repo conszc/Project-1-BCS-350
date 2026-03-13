@@ -13,6 +13,7 @@ Part 1: Content
 -The site will have images and videos because this will be important to draw those upper class customers.
 
 Part 2: Design
+
 -Modern and Minimalist Design
 -Black, White, Silver, Dark Blue Accents color scheme
 -Headings: Montserrat 
@@ -26,6 +27,7 @@ Body text: Open Sans
 -The layout of the homepage will be the navigation bar, hero section with image and call-to-action, services overview, gallery preview, about section, contact section, footer
 
 Part 3:
+
 -The website will include, navigation menu, buttons, contact form, image gallery
 -Users will navigate using a top navigation bar that links to each page. The menu will remain consistent across all pages.
 -The contact form will include, name is entered, email is valid, message field is not empty. If the form is incomplete, users will receive an error message.
