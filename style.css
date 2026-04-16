@@ -1,0 +1,69 @@
+/* ABOUT PAGE */
+
+.about-section{
+padding:80px 40px;
+}
+
+.about-container{
+display:flex;
+flex-wrap:wrap;
+align-items:center;
+justify-content:center;
+gap:40px;
+}
+
+.about-text{
+max-width:500px;
+}
+
+.about-image img{
+width:400px;
+border-radius:10px;
+}
+
+
+/* MISSION SECTION */
+
+.mission-section{
+text-align:center;
+padding:80px 20px;
+background:#1b1b1b;
+}
+
+.mission-section p{
+max-width:800px;
+margin:auto;
+line-height:1.6;
+}
+
+
+/* WHY US SECTION */
+
+.why-us{
+text-align:center;
+padding:80px 20px;
+}
+
+.why-container{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:30px;
+margin-top:40px;
+}
+
+.why-card{
+background:#1b1b1b;
+padding:25px;
+width:250px;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.4);
+}
+
+.why-card h3{
+color:gold;
+margin-bottom:10px;
+}
+
+
+
